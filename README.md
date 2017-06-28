@@ -11,6 +11,4 @@ More details in the publication at [IEEE ICDM 2016](http://www.utdallas.edu/~swa
 
 # Execution
 
-    ```
     $ python manager.py <dataset_location>
-    ```
